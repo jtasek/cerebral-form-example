@@ -8,7 +8,7 @@ Installation
 $ npm install
 ```
 
-Running locally on port 3000
+Run locally on port 3000
 
 ```sh
 $ npm start
